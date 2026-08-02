@@ -17,7 +17,7 @@ Aceita a instalação de diversos cms Xibo no mesmo servidor.
 Clone o repositório e execute o script:
 
 ```bash
-git clone https://github.com/henriquelucas/xibodockerinstall
+git clone https://github.com/Robson569400/xiboinstall
 cd xibodockerinstall
 chmod +x xibo.sh
 sudo ./xibo.sh
